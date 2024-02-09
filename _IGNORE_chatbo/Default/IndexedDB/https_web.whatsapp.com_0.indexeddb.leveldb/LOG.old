@@ -1,0 +1,8 @@
+2024/02/10-00:30:16.128 2c30 Reusing MANIFEST F:\whatsapp-ai-bot\_IGNORE_chatbo\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/10-00:30:16.130 2c30 Recovering log #2183
+2024/02/10-00:30:16.257 2c30 Reusing old log F:\whatsapp-ai-bot\_IGNORE_chatbo\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002183.log 
+2024/02/10-00:30:16.258 2c30 Delete type=2 #2179
+2024/02/10-00:30:16.258 2c30 Delete type=2 #2180
+2024/02/10-00:30:16.258 2c30 Delete type=2 #2181
+2024/02/10-00:30:16.258 2c30 Delete type=2 #2186
+2024/02/10-00:30:28.507 2c30 Manual compaction at level-0 from '\x00\xa4\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa5\x00\x00\x00' @ 0 : 0; will stop at (end)
